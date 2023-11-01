@@ -1,4 +1,4 @@
-# Hi there, I'm Arafat Aminh 👋
+# Hi there, I'm Arafat Amin 👋
 
 I'm a passionate .NET developer with 2 years of experience, specializing in Web Application, Desktop Application.
 
@@ -16,9 +16,9 @@ I'm a passionate .NET developer with 2 years of experience, specializing in Web 
 
 ## 🌐 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- Twitter: [Your Twitter Profile](https://twitter.com/yourusername)
-- Email: [Your Email](mailto:youremail@example.com)
+- LinkedIn: [Arafat Amin](https://www.linkedin.com/in/arafamin/)
+- Twitter: [Arafat Amin](https://x.com/araf_amin13696)
+- Email: [Arafat Amin](mailto:arafat15-5321@diu.edu.bd)
 
 ## 📦 Projects
 
