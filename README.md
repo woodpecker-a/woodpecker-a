@@ -2,9 +2,9 @@
 
 I'm a passionate .NET developer with 2 years of experience, specializing in Web Application, Desktop Application.
 
-🔭 I’m currently working on a Hospital Management System and ERP Solution.
-🌱 I’m currently learning kubernetes.
-💬 Ask me about Development Technologies such as CQRS, MediatR.
+🔭 I’m currently working on a Hospital Management System and ERP Solution
+🌱 I’m currently learning kubernetes
+💬 Ask me about Development Technologies such as CQRS, MediatR
 
 ## 🚀 My Skills
 
