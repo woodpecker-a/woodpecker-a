@@ -24,10 +24,8 @@ I'm a passionate .NET developer with 2 years of experience, specializing in Web 
 
 Here are some projects I'm proud of:
 
-- [Project 1 Name](link to project 1) - Brief description of the project.
-- [Project 2 Name](link to project 2) - Brief description of the project.
-
-You can find more on my [blog](https://www.yourblog.com).
+- ([Hospital Management System - HMS](https://github.com/HMS-JV)) - One Stop hospital management with interctive billing section with appoinment.
+- ([ETL - ERP](https://gitlab.com/emeraldtechnoltd/erp)) - A complete HR & Payroll solution to boast up organization work flow.
 
 ## 💬 Let's Connect
 
